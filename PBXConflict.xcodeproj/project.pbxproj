@@ -51,8 +51,7 @@
 		BEE5212E2CB4CCBE00363E9E /* PBXConflict */ = {
 			isa = PBXGroup;
 			children = (
-				BEE5212F2CB4CCBE00363E9E /* PBXConflictApp.swift */,
-				BEE521312CB4CCBE00363E9E /* ContentView.swift */,
+				BEE5213F2CB4D8FA00363E9E /* Bran */,
 				BEE521332CB4CCC000363E9E /* Assets.xcassets */,
 				BEE521352CB4CCC000363E9E /* Preview Content */,
 			);
@@ -65,6 +64,15 @@
 				BEE521362CB4CCC000363E9E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BEE5213F2CB4D8FA00363E9E /* Bran */ = {
+			isa = PBXGroup;
+			children = (
+				BEE5212F2CB4CCBE00363E9E /* PBXConflictApp.swift */,
+				BEE521312CB4CCBE00363E9E /* ContentView.swift */,
+			);
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
